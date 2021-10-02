@@ -56,7 +56,34 @@ Flore knows this. His training is intense. He trains for two whole hours each da
 
 ---
 
+Repetitive, boring and useless grinding started to slowly grind off the spirits of the players. Flore sometimes cries too. The strongest emotional breakdown was in August this year, when his own time didn't improve for a long time, but two friends who mainly play battle just "casually broke records". At 4 pm, one of them broke his record by one second, and at 6 pm, the other friend got it too, also with admirable improvements.
 
+Battle is another mode of Tetris. You might have heard of *Tetris 99*. Some people call it "Tetris battle royale", but the community often calls it "T99". A common misunderstanding is that Tetris is a single player game, but it couldn't be more wrong. "T99", for instance, is an online battle game. In the game, 99 players play against each other, sending their cleared lines to opponents' fields under certain rules. Faster players clear more and send more attack, while slower players get eliminated one by one; the last surviving player wins. It's also fun to play.
+
+![](https://i0.hdslb.com/bfs/article/d6090c3f891504431c02a862d57226e69d61971e.jpg@942w_531h_progressive.webp)
+<br />*(A 99-player battle royale.)*
+
+Online battle modes aren't originated from T99. Similar battle modes have always been a main mode of Tetris games. Of course, more players are familiar with 1v1 battle or with a small group of people, instead of a 99-player battle royale, though the rules are largely the same.
+
+Compared to Sprint, the main mode is actually Battle. The PvP combats bring a lot of fun. If we say Sprint is like a boring grind in the gym, then battle is like a friendly game on the field. Even though both modes are Tetris, the two sides are completely different. Sprint only calls for speed, but battle calls for striking the hardest when the opponent is the weakest. Battle's attack system prefers combos, spins and Tetrises, thus have very different strategies from Sprint. When you play different modes, you would also naturally train in different directions.
+
+Thus, Flore cannot accept the records of his friends. Not like he doesn't hope his friends do well, but why, despite all his hard work, can't even compare with the casual lunch break game of someone else? He completely fell into this thought. He saw his own failure from others' achievement - or sometimes not even quite "achievement".
+
+Flore broke down. He cried out loud, in a small groupchat with a handful of players. He sends out the voice messages, with words and cries and sobs blended together, one message after another, without even caring about other people's reactions. This isn't common at all, but his friends don't feel strange. Rather than surprise, they showed their acceptance, responding to an out-of-control emotion with the most appropriate approach. They all understand the situation well. They reply to Flore one by one.
+
+"What did they say back then?" I asked him.
+
+"I'm fine. It's the past, and I don't want to look back for now." His tone lowered.
+
+... ...
+
+"Am I not being polite?" He asked me with a bit hesitation.
+
+"How come?"
+
+"You know, like, ... jealous. Like the seven sins."
+
+---
 
 
 
