@@ -18,7 +18,8 @@ For a regular person, Tetris can't be simpler. Stack, clear, keep the blocks awa
 
 In China Mainland, there are 22 people ahead of him.
 
-![A table of best Sprint scores in China Mainland made by Flore. The leaderboard includes scores from multiple versions of Tetris, but the rules are similar.](https://i0.hdslb.com/bfs/article/588f60a9052ac56110f914cd00903b0c92f6b181.jpg@942w_1892h_progressive.webp) *(A table of best Sprint scores in China Mainland made by Flore. The leaderboard includes scores from multiple versions of Tetris, but the rules are similar.)*
+![A table of best Sprint scores in China Mainland made by Flore. The leaderboard includes scores from multiple versions of Tetris, but the rules are similar.](https://i0.hdslb.com/bfs/article/588f60a9052ac56110f914cd00903b0c92f6b181.jpg@942w_1892h_progressive.webp)<br />
+*(A table of best Sprint scores in China Mainland made by Flore. The leaderboard includes scores from multiple versions of Tetris, but the rules are similar.)*
 
 ---
 
@@ -38,7 +39,8 @@ Actually he doesn't curse other people, he only curses himself. In games he's ne
 
 The time when it was worst was the time when it was the closest to success. Two months ago, Flore slumped in a chair and posted in his social media: "I'm not angry. I'm not angry at all. I'm very calm, there isn't a single wave in my heart." He emphasized, he is "really, really, really [not angry]". Below the text is a screenshot, with two stacks of blocks, 4 layers tall, and a vertical long bar nearly managed to clear it. The counter says it's the last 4 lines, with timer at 0:30.683, and should it not have gone wrong, it would have broke his personal record by nearly 1 second.
 
-![](https://i0.hdslb.com/bfs/article/720c5b8c84b383d45730ca74708763f19fc6e6eb.jpg@942w_618h_progressive.webp) *("ps. my PB is 31.613 seconds")*
+![](https://i0.hdslb.com/bfs/article/720c5b8c84b383d45730ca74708763f19fc6e6eb.jpg@942w_618h_progressive.webp)
+<br />*("ps. my PB is 31.613 seconds")*
 
 What does one second mean to him? Flore made a line graph, not only to keep track of his records but also to urge him practice. The y axis is time. Since January 2021, he makes progress about every half a month, sometimes by 0.7 second, sometimes by merely 0.1 second. The process of cutting down the time is like a worm eating tree leaves: the large chunks are gone, leaving the veins to tackle. Only rarely - once in the past year - can he make a progress of over 1 second.
 
