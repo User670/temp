@@ -85,12 +85,31 @@ Flore broke down. He cried out loud, in a small groupchat with a handful of play
 
 ---
 
+The Tetris community in China isn't a big. It's not us being modest about it; the community worldwide isn't big either. In China, almost all active players know almost all other active players - if you mention one to another, they can often tell you a bit about how good and how active they are.
 
+"Community" here practically means specifically QQ group chats. Chinese Tetris players are mostly within a dozen or so groups, with 100 to 3000 members in each one, and around 5000 total if you account for duplicates. To them, Tetris is simply "fun", and because of this, "having fun" is more important than winning.
 
+On May 28th, 2010, an 8th grader created what eventually became the biggest Tetris community in China. The initial goal of the groupchat was simple, or you might even say casual - to make a Tetris game that "has the best handling by my standards". The game was made wih Visual Basic 6, which he learned from a classmate in grade 4. The classmate also played Tetris and learned programming from a book, he then learned from the classmate. He wasn't good at it, but after some fiddling around, he eventually made a working game.
 
+He created the groupchat, simply named "Tetris Research". "After all it's for collecting feedback for the game, so the name is quite programmer-ish." He also came up with a weird nickname: "Farter". His game attracted many Tetris players, and through the word of mouth, all Tetris players in China eventually knew about this weird name. Calling a person "fart" still isn't the most appropriate, so people added a title, and started calling him "Uncle Farter".
 
+"Making a perfect Tetris game" is a goal shared by more than just one person, and many player have plans to make their own Tetris game. Speaking of a fan-made game, many community members might think of another game - *Techmino*, by MrZ, a college junior.
 
+![](https://i0.hdslb.com/bfs/article/bb73382a8b277ccd0312615a8d339cfc28d9d4ac.jpg@942w_437h_progressive.webp) <br />*(Main menu of Techmino.)*
 
+What is special about this game? MrZ explained that Tetris game are roughly divided into two categiries, "delay Tetris" and "delayless Tetris". The delay doesn't refer to input delay in the usual sense, but the delay between two actions. A way to measure said delay is by Delayed Auto Shift (DAS for short). When you hold a direction key, the block will stop for a while after moving one block, then continue moving at a constant speed.
+
+It sounds like a bit abstract. When explaining this concept, MrZ told me to change my input method to Chinese *([sic]. TL: I think they mean English)*, then hold the "A" key. I followed, and a string of letter "a" appeared in the text box.
+
+"See? There is a pause between the first and second letters appearing. Tetris is the same, and two movements have a pause in between, which we call delay."
+
+"The other type of delay is line delay." He continued. Line delay is the delay after the player clears a line, including the animation for the clearing as well as for the blocks above to fall down. It's a short delay, usually counted in milliseconds, but has a significant impact on how the game feels. Let's just take Sprint: clear 40 lines, and each line clear has 400ms delay, in the most extreme case it can add up to 16 seconds, while the delayless Sprint world record is even less than 15 seconds. There is such a difference so that players always compete within one rule set; you can't compare across rule sets.
+
+If a game has delays, players call it "delay Tetris", otherwise they call it "delayless Tetris". The former is less popular than the latter.
+
+Tetris has mostly set rules, so when one wants to make a better game, what they work on is in the details and fine tuning. Those games that have an official Tetris license almost employed the same set of standards, and the more popular ones mostly have delays, which Chinese players don't like. MrZ wants every player to find it comfortable to play, so he just made most important parameters manually adjustable. To him, softwares are just like hardares, with no hard standards of good or bad; it's good as long as you are comfortable with it.
+
+![](https://i0.hdslb.com/bfs/article/70a288890682ebcc620a57468eed4018106998a0.jpg@942w_437h_progressive.webp) <br />*(Some adjustable parameters in the game.)*
 
 
 
