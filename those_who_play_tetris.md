@@ -111,6 +111,65 @@ Tetris has mostly set rules, so when one wants to make a better game, what they 
 
 ![](https://i0.hdslb.com/bfs/article/70a288890682ebcc620a57468eed4018106998a0.jpg@942w_437h_progressive.webp) <br />*(Some adjustable parameters in the game.)*
 
+*Techmino* is very well known in the Tetris community. MrZ has created dedicated groupchats for this game. Players are very active in the groups; now there are 2 QQ groups with nearly 3000 members in total, and a Discord server with over 500 international players. In real life, MrZ is a college student who will graduate next year, and it's time for him to consider about his future. He majors in computers *(TL: original text just says "compuuters", my guess is computer science)*, with little to do with game design. His mother wants him to go to graduate school, for graduate students have more advantage in the saturating job market. MrZ isn't exactly a fan of that idea.
+
+"It would be nice if I could combine my job and my hobby." MrZ has considered going down the game dev path, but is also concerned that he doesn't have peoper training and lack the needed skills. After all, "there are people out there who do very well but still don't earn enough bucks", and it can only go worse for a hobbist like him.
+
+However, as far as I'm aware, if you ever ask a Tetris player what Tetris game to play on mobile, in most cases they would recommend *Techmino*, and there is hardly any other game better than that. A common tag line in the community is "Techmino is fun" - it is indeed fun, and it's liked by many people, what it needs is a bit of approval of the market.
+
+"The bigger I make it and the more directions it expands to, the more I realize I hardly know anything. How scary." MrZ told me with the typical kind of mental state of the students of his age, "but I don't quite want to do those things I don't find fun, right?"
+
+---
+
+You might have heard of a person called "Amemiya Taiyou". He is the most popular Tetris live streamer in Japan, with quite a bit popularity in China as well. He also has an exclusive title, "the God of Tetris". But to be honest, this title is more of a bluff than anything else. The Tetris scene is ever-changing, and the "God" of today might be just second or third place of tomorrow - in other words, Amemiya Taiyou is but a common person, and his skills isn't the best.
+
+There are three top Tetris players in Japan. Based off the occasional few battles between them, the other two playrs have a significant advantage against Amemiya Taiyou. If we are just talking about pure skills, the "God" title is indeed not exactly appropriate for Amemiya Taiyou. But real life is never this rigorous. While skills are still vital, other factors like promotion, marketing and exposure all significantly affect the popularity of a player; on the other hand, fans find it hard to rank the players based on skill, because Amemiya Taiyou rarely battles those that he has once lost to, whether it's intentional or not. Once he loses to a player, he never plays against him again.
+
+That is also why Amemiya Taiyou doesn't have exactly the best reputation in the community. Players admit that he is skilled, but also wonders "why does he do that". It's not decent of him to be strong but still plays little tricks like that. Though regardless of some people think of him, he is still the most famous Tetris live streamer for those outside the community.
+
+Many things in life is just like that - some people's trash is other people's treasure, what one doesn't care about might be picked up and loved by some other people. From a secular point of view, those who are rich in the mind might not be the best off in material. So with what standard should we judge one's life? For what it's worth, spiritual life might be more important. So their spiritual life is richer? Maybe.
+
+Amemiya Taiyou is the only streamer who can "make a living out of playing Tetris". When he plays Tetris, he needs to focus - the harder the battle, the less room there is for the streamer to talk. Amemiya's strategy for that is to add filler words, like "Wait!", "Ola!" and "Hoi!". Many other players don't play any worse, and also have live streams, but they don't get as much income. Diao is 17 years old, high school student, from Malaysia, speaks English and Chinese, and is one of the top 4 players in delayless Tetris. In the self introductions he gave me, he wrote "My efficiency is higher than anyone in the world", and then striked it out. On his Twitch dashboard, it shows that he earned US$ 17.65 from streaming in the past two months.
+
+![](https://i0.hdslb.com/bfs/article/fba8860e2fc6690fcef85e40123899bf7a3fe3b2.jpg@942w_492h_progressive.webp) <br />*(Diao's stream stats)*
+
+Diao is a strong player, and is admired by players in the community. Soon after I joined the groupchats and said I'd like to interview some players, almost everyone started to half-jokingly spam "I want to see an interview of Diao", and can hardly see any other messages. Two years ago, a Malaysian Chinese invited Diao into the Chinese Tetris community by chance, and soon after, he got quite well within the community.
+
+Diao has won world champions many times. "The best" isn't just words from other players: each player's skills have solid evidence to support. *Tetr.io* is the most popular game among delayless Tetris players. The second place on the leaderboard is called ZOIMAOAH, with 92.78% win rate, higher than most people, including the first place. The only reason it isn't on the first place is that it didn't play that much. This account is Diao's - the game forbids alts but doesn't restrict name changes, so he changes his nickname every once in a while.
+
+ZOIMAOAH is actually the name of another player. That player is a friend of Diao's, and one day they decided to swap nicknames. Another friend of Diao told me that Diao likes to do these weird and funny things. Once he registered a new account and used that account to play in a tournament. He played against another strong player, and had a tight fight. The commentator didn't realize who this "new" player was, and at last thought it was another Japanese player who also often changes nicknames. After the victory, Diao left a "Who is diao?" in the chat, and left.
+
+![](https://i0.hdslb.com/bfs/article/bac932e3b93a1f74f9f950f1aec7009ae6b74828.jpg@942w_530h_progressive.webp) <br />*(Diao as Majimedewanai, a "Japanese" player. Seems like the commentator mistook him for someone else, and wrote "Probably Ajanba" in the player bio.)*
+
+He also once used the nickname "cztoxicgamergirl". The "CZ" is of course not a girl. Diao often play together with CZ, and they often make jokes of each other. CZ isn't sure why Diao does that, maybe just for "fun". Many other players also like to use other people's names in their nickname, like how kids have nicknames of other kids, pull of a prank and have some stupid fun.
+
+During the interview, Diao sent me this self introduction:
+
+> My name is Diao. I'm 17 years old. My house is in Luala Lumpur, Peninsular Malaysia, and I am not married. I do homework at home, and I go to bed every day by 3 AM at the latest. I don't smoke, but I occasionally drink cola. I'm in bed at 5:30 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm Milo (chocolate milk) and doing about one hour of chatting before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at my last check-up.
+> <br />--Diao, Tetris player
+
+The language seem a bit weird, as if coming from someone who is not fluent in Chinese. It was only later that I realize it's from "Jojo's Bizzare Adventure", more specifically, the self introduction of Yoshikage Kira, the "master of broken hands" in the show, a villain who is evil yet charming. I was suddenly reminded of the Joker in DC Comics. Back when I was in high school, I used to be a big fan of Joker. I thought he's indulgent, a bit crazy, but yet thoughtful. He's cool.
+
+> My name is Yoshikage Kira. I'm 33 years old. My house is in the northeast section of Morioh, where all the villas are, and I am not married. I work as an employee for the Kame Yu department stores, and I get home every day by 8 PM at the latest. I don't smoke, but I occasionally drink. I'm in bed by 11 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm milk and doing about twenty minutes of stretches before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at my last check-up.
+> <br />--Yoshikage Kira, *Jojo's Bizzare Adventure: Diamond is Unbreakable*
+
+---
+
+"Modian T283" (Wu Songhao) is another popular player in the community. In 2016, a TV show of Jiangsu TV invited the best Japanese Tetris player, Hirozumi Kibi (hebo_mai), and was needing a player for a "China vs Japan match". The directors of the show reached out to the community and asked for volunteers. Not many people responded, but Modian volunteered. Back then he wasn't exactly good at battle or sprint, but he was good at playing invisible Tetris. It's a special game mode where blocks go invisible after landing, with the board be pitch black, and it all relies on memory to figure out where to put the blocks.
+
+The directors considered invisible Tetris be good on on the show, for it requires both hand-eye coordination and good memory. Near the end of the show, a few judges graded the difficulty of the challenge. Three judges each score it on a scale from 1 to 5, and Modian got the full point of 15. For the purpose of the show, the production team marketed Modian as a "master of games", "beating Mario at 3 years old, Adventure Island at 4 years old, Battle City at 5 years old within a week". In the studio, every time he clears an invisible line, the audience burst into cheers.
+
+That year, Hirozumi Kibi was undoubtedly the best player in the world. He got three world champions in official tournaments, and was dubbed "the greatest of all time" by the western community. While he isn't the best with invisible or sprint, but he is still among the top ones. Should Modian play sprint or battle against Hirozumi Kibi, the chance of winning is slim. But invisible Tetris is different. Invisible Tetris calls for practice and familiarity, and he has quite the chance of winning. However, during the actual match, the production team has set up different keyboards from the ones used in rehersal, which has quite the different feel. Together with some bad decisions in the game, Modian lost the match.
+
+After the show, viewers started to talk about it online. Who of the two was stronger? Did the Chinese really lose to the Japanese? Can the "master of games" represent the best standards in China? While some doubted, others showed disdain towards the performance. The internet is just like this, everyone can talk about some public figures. For the common people, if you did something bad, you get at most a few hate comments, you fight them off with your keyboard, it was no big deal. For public figures it's different. They are the focus of the public opinions. While one might win an argument against a few people, you can't win against such a large population. The best response is to not respond at all, but when you are under attack by thousands of people, you would definitely feel bad.
+
+
+
+
+
+
+
+
 
 
 
