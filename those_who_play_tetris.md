@@ -163,31 +163,97 @@ That year, Hirozumi Kibi was undoubtedly the best player in the world. He got th
 
 After the show, viewers started to talk about it online. Who of the two was stronger? Did the Chinese really lose to the Japanese? Can the "master of games" represent the best standards in China? While some doubted, others showed disdain towards the performance. The internet is just like this, everyone can talk about some public figures. For the common people, if you did something bad, you get at most a few hate comments, you fight them off with your keyboard, it was no big deal. For public figures it's different. They are the focus of the public opinions. While one might win an argument against a few people, you can't win against such a large population. The best response is to not respond at all, but when you are under attack by thousands of people, you would definitely feel bad.
 
+Have you considered this: when a person was put under the spotlight as a genius, what does he gain? And what does he lose? After the show, Modian got a bit of popularity for a while, and another show invited him. At the studio, the show's team recorded him playing Tetris on a PSP, from beginning to end. He doesn't seem to care about other people talking or competing, only talking when the host asks him questions, and never lifting his eyes off the device. When it's his turn to step onto the stage, colorful Tetris pieces were displayed onto the screen, and the audience were amazed by the invisible blocks being cleared, and the piece of his mind that is finally shown to other people.
 
+Last year, Jilin Television invited him to another show. Also a variety show, also shows him playing Tetris, also invisible. They didn't even change the slogan - "beating Mario at age 3, Adventure Island at 4, Tanks at 5"; "the best master of games".
 
+Modian later got a job at a cyber cafe as a counter clerk. Literally a clerk, the kind that collects fees and swipes ID cards. The reason for this job choice is simple, "the job as a clerk is not too busy and I get time to play games". Two months later, he left this job, and got to participate in recording sessions of another show. After the show, he joined a power plant as a maintenance crew that fixes whoever's broken computer at the site. The job is "a bit more busy", but it's a state-owned company, so the job is more stable, so still not bad.
 
+After the show gets more popular, some media started covering him. Some reporters saw that the "master of games" started doing "ordinary jobs", and wrote a story of "how a genius falls", and wrote down the job position as "security guard in the title. Modian was angry after seeing it, sating the media was writing bullshit and have no bottom line.
 
+One more year later, he left his job and went to Shenzhen. This time he had no plans, and "had no thoughts". In his words, it's more like a whim - being bored in a small town, he wanted to try exploring in a big city. He didn't find a suitable job yet. He rented a small room with his savings. He sleeps plenty, and stream him playing games when he's awake. He mainly plays Tetris and League of Legends. He doesn't have many followers and can't earn much money, but at least it's free and happy for him.
 
+I asked if he had any plans for the future. He said no. What about job preference? He said, "something not so busy, and related to games."
 
+I then asked what his ideal life looks like.
 
+He thought for a while. "Just like now."
 
+---
 
+I also talked with many more people. The Tetris community is not so big, but there are all kinds of people in there. I've covered some of them, and more that I've yet to cover - like Zouzhizhang, who trains AIs that play Tetris. He calls those AIs "bots", and the bots are undefeated against any other players (and likely will remain undefeated). Hands and brains made of flesh can't compare with machines. The bots can adjust their play style based on some parameters; they can be aggressive and they can be conservative too. He also trains bots against each other, eventually reaching a most efficient strategy for the bots.
 
+Zouzhizhang told me that bots are good at sending large spikes, thus the bionics algorithms chose a strategy that are mainly defensive with constant outputs, first keep survival, and then knock out the opponent with big bursts of combos.
 
+![](https://i0.hdslb.com/bfs/article/d6e78eaa4db4e1cea76552c4531462fbb138979b.jpg@942w_512h_progressive.webp) <br />*(Diao vs bot by Zouzhizhang. The bots have their speed capped, otherwise it's unplayable. Players often practice with bots; by adjusting the speed of the bots, they can be very good training partners.)*
 
+Also Tianyi. Tianyi is a college sophomore, a young one in the community. Some people may expect the Tetris community to be mostly people for their nostalgia, but the reality is the opposite; players in the community are mostly students. College students are more common, and there are also quite a number of middle school or high school students. When trying to interview him, it's common that I send him a message in the day, and only get a reply in the evening, followed by an apology of "sorry, was having class in the afternoon".
 
+Tianyi started playing Tetris since he was small - he first played Tetris when he was 5 years old. After thousands of hours of practice, he became one of the best players in China when he was in middle school. His classmates were not aware of this, and he rarely talked about it; occationally when his friends see him playing games, they just scream "wow that's awesome" and then leave very soon. He wanted to invite other people to play with him, but rarely does anyone show any interest.
 
+Also Mifu. While Tetris puts a lot of focus on speed, King of Stackers is the exact opposite, and players call it a "turn-based Tetris game". Usually Tetris follows a "bag-7" rule, i.e. 7 pieces appear in a bundle with no duplicates. In King of Stackers, two players don't play at the same time, and they instead play in turns of 7 pieces - a player places a bag of pieces, and wait for the other player to place their bag. You can't move before they finish playing, thus "turn-based".
 
+A regular game of battle Tetris is fast paced and players can't think of every possible move, but in King of Stackers, you even have to consider the strategies of the opponent. The core of the game is at finding the optimal solution. Players can reset as much as they want before submitting their moves, and they have to find the optimal way to place blocks in continuous trial and error. The back and forth is more like playing chess. The thinking of one turn can easily take over an hour, and it's common to have a single match last over 30 hours. Mifu told me that this mode is very fun to play, and he once was in the top 10 in the global leaderboards.
 
+![](https://i0.hdslb.com/bfs/article/06319fbb4afeeed241450b8a8f8bb3611f89bc40.jpg@942w_851h_progressive.webp) <br />*(Interface of King of Stackers.)*
 
+Everyone in the groupchat plays Tetris, with intense sessions, almost playing every day, two or three hours at a time, or even more. Some have played for a year or two, some played for over a decade. Some see Tetris as a game, some see it as the most important thing in their life. Everyone is different here. So I asked everyone a question: What does Tetris mean to you?
 
+Diao said: "Tetris = procrastination. When I don't want to do homework I play Tetris, when I don't want to play Tetris I do homework."
 
+Modian T283 said: "I don't make comments on this. Whatever one thinks is what he thinks."
 
+Farter said; "I'm not much of a social person, but it's natural for me to start a conversation with a stranger from Tetris."
 
+MrZ said: "Can't think of much all of a sudden. I just feel happy. It's good."
 
+Mifu said: "Good game. Nothing special, it's fun to play, so I play it."
 
+Tianyi said: "Fun indeed. At the beginning I also thought of becoming stronger, but perhaps because I'm already a good player, I no longer think of that."
 
+Zouzhizhang (who now works in the field of data storage and databases) said: "I made bots to help players practice, or for players to see new things. Algorithms can come up with what humans can't think of."
 
+Teatube (community manager, tournament host) said: "Perhaps the best I can do is to gather the people together."
 
+Kui (one of the best players in Mainland, student of Tsinghua University, female) said: "Because it's fun." *(Translator's note: Tsinghua is one of the top universities in China.)*
 
+Xiaowuyin (formerly known as Youran, top 5 in Mainland in delay Tetris, kinda-on-a-Tetris-break) said: "I never found anyone to play Tetris with me IRL. It's the time and happiness that I can't get back."
+
+Mars (one of the best players of delay Tetris in Mainland, used to work in government, now works in research. 32 years old) said: "The most important reason is of course fun. Also it's like a platform for me to communicate with people that are like, higher up in social status. Ordinarily Tsinghua students are like on a whole another level from me. Nothing does better than video games when it comes to bringing people of different social classes or otherwise separated together."
+
+![](https://i0.hdslb.com/bfs/article/faff1b177bd14f1eb92e19426e06b0cd93f0d9b4.jpg@942w_707h_progressive.webp) <br />*(Teatube is the organizer of tournaments in the groupchats. Once he bought trophies for the players, and called it "Love from Teatube" prize.)*
+
+---
+
+Flore's nickname comes from Florentino Ariza, a character in the novel *Love in the Time of Cholera*. The original name was too long so he took the first bit. Florentino in the novel is a playboy who dated 623 girls but only loves one. For the one he loves, he would wait for 53 years. The life of a man might only have one period of 53 years. Florentino is a playboy but yet also dedicated with love; he loved a thousand women but only loves one. The one he "thought was the most romantic".
+
+Flore didn't get a girl he loved in high school. After reading the novel, he quietly changed the nickname to the name of the hero of the novel. As time flies, one's mind changes too; his love of youth is no more, but the name that he liked remained.
+
+He told me that the name "Flore" is quite nice. Even if it's just a combination of letters, it looks round, smooth and lovely. Like a flower.
+
+By the time the interview ended, Flore was still training. To help ease his mind, he hardly plays battle, and he wouldn't get too angry even if his daily hours of training don't go so well. Earlier, *Tetris Effect: Connected* was released on Steam. The game has great graphics and music, like a piece of art, and attracted basically everyone in the community. Flore had fun with it too, and got a decent position on the leaderboards. Sometimes he wants to try again and go for a better score. Sometimes he gets there, sometimes he doesn't. But unlike before, he wouldn't mind even he doesn't quite make it, and leave it when it's about enough. Life has to continue.
+
+Back in the days when he was way too into the game, he had a goal for himself to beat a player that he has never beaten before. The two player arranged a match, with the "FT15" rule, whoever gets 15 wins first wins the game. The game started smoothly. Flore was in good condition, decent speed, hardly misdropped, and got a score of 14 to 11, taking the match point.
+
+Victory is just barely within reach. "Just one more game!" One game! Just one more, and the practice of the past months would pay off. But things don't always go as we wish. His mind was a mess, and his hands were out of control, making many mistakes in a row. The more mistakes he made, the more anxious he got. The lead was soon levelled out. Seeing the opponent catching up with the scores, he was very worried; he tried to calm down but it didn't help, and he did even worse. He eventually lost the last game. After he closed the game, he cried, and he never had another match with that player, because whenever he opens the game, he thinks of that failure. "I can never defeat him." He doesn't like this thought, but it doesn't go away.
+
+"It's like building a tower with wood blocks. When you know you can carry on with it, and keep building for decades, you'll feel enormous joy with the task." He uses building a tower as a metaphor for persistence in doing something, "but the tower has a mind of its own, and it may decide to collapse one day on its own."
+
+"For some reason I an trapped in this game." Flore has strong feelings of this quote. He said, "wonderfully said, that's what we are." Tetris does indeed bring joy, but the process is also painful at times. In the end, it's hard to tell whether there is more joy or more pain.
+
+![](https://i0.hdslb.com/bfs/article/eb318f5a69af67e461288f4d3451e589fbdbf933.jpg@942w_536h_progressive.webp) <br />*(FireStorm retweeted: "I really don't know why I am trapped in this game")*
+
+"I guess there is more joy."
+
+So what is the happiest thing in his life? Flore thought about this for a long time. Finally, he said something unrelated to Tetris: the year before last, in order to lose weight, he had strict plans, eating light food, and jog every day, aiming to lose 10 kilograms within 4 months. Then he gave himself a mission: he would finish a half marathon within half a year.
+
+Half of a marathon is 21 kilometers, or 52 and a half laps on a 400m track in the school. 85 days later, he stands on the track, preparing for the run. Compared to the road, he prefers running on a flat field. The conditions of the road can be complex, with slopes, cars, other people, all of which can interrupt the flow of the run. The track is different; it's simple and flat, and nothing is more simple than that in life. He stands there, thinking of nothing, blanking out his head. Breath in, breath out, and go.
+
+That day was Sunday, November 11th. On the same morning, Shanghai Marathon was taking place in the Bund. The event has no half marathon, and he can't run a full marathon, so he runs on his own on the track. He purposefully picked this same day, as if it was a ritual. There are many people running on the same tracks, but no one noticed that he ran laps after laps, like a machine spewing out hot steam, never stopping.
+
+It was a cool autumn evening, and the moon was clearly visible in the sky. When he gets bored running, he looks up at the sky. He walks to the exit after his run, soaked in his sweat. He walked into a supermarket, got himself a bottle of milk tea and a bag of whole wheat bread. He hasn't had any sugary drinks for months, and he decided to treat himself with it. The autumn wind is cool, but he feels warm from running. His arms feel powerless from the swinging, but still feels nice. He sat on the bench with joy, taking out his phone to see the stats. Every kilometer took him 4m 50s, with total time just over 1h 40m. It was unexpectedly good, and he was satisfied.
+
+He wrote a social media post for celebration. He sent it. He took out the bread and the drink, looked at the screen, waiting for likes coming in.
+
+![](https://i0.hdslb.com/bfs/article/53c45f0c656459b3fb7abd660e008be42ea32afb.jpg@942w_530h_progressive.webp) <br />*(The field in his school.)*
 
