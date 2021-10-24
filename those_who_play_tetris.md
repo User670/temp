@@ -97,7 +97,7 @@ He created the groupchat, simply named "Tetris Research". "After all it's for co
 
 ![](https://i0.hdslb.com/bfs/article/bb73382a8b277ccd0312615a8d339cfc28d9d4ac.jpg@942w_437h_progressive.webp) <br />*(Main menu of Techmino.)*
 
-What is special about this game? MrZ explained that Tetris game are roughly divided into two categiries, "delay Tetris" and "delayless Tetris". The delay doesn't refer to input delay in the usual sense, but the delay between two actions. A way to measure said delay is by Delayed Auto Shift (DAS for short). When you hold a direction key, the block will stop for a while after moving one block, then continue moving at a constant speed.
+What is special about this game? MrZ explained that Tetris game are roughly divided into two categories, "delay Tetris" and "delayless Tetris". The delay doesn't refer to input delay in the usual sense, but the delay between two actions. A way to measure said delay is by Delayed Auto Shift (DAS for short). When you hold a direction key, the block will stop for a while after moving one block, then continue moving at a constant speed.
 
 It sounds like a bit abstract. When explaining this concept, MrZ told me to change my input method to Chinese *([sic]. TL: I think they mean English)*, then hold the "A" key. I followed, and a string of letter "a" appeared in the text box.
 
