@@ -85,7 +85,7 @@ Flore broke down. He cried out loud, in a small groupchat with a handful of play
 
 ---
 
-The Tetris community in China isn't a big. It's not us being modest about it; the community worldwide isn't big either. In China, almost all active players know almost all other active players - if you mention one to another, they can often tell you a bit about how good and how active they are.
+The Tetris community in China isn't big. It's not us being modest about it; the community worldwide isn't big either. In China, almost all active players know almost all other active players - if you mention one to another, they can often tell you a bit about how good and how active they are.
 
 "Community" here practically means specifically QQ group chats. Chinese Tetris players are mostly within a dozen or so groups, with 100 to 3000 members in each one, and around 5000 total if you account for duplicates. To them, Tetris is simply "fun", and because of this, "having fun" is more important than winning.
 
@@ -107,7 +107,7 @@ It sounds like a bit abstract. When explaining this concept, MrZ told me to chan
 
 If a game has delays, players call it "delay Tetris", otherwise they call it "delayless Tetris". The former is less popular than the latter.
 
-Tetris has mostly set rules, so when one wants to make a better game, what they work on is in the details and fine tuning. Those games that have an official Tetris license almost employed the same set of standards, and the more popular ones mostly have delays, which Chinese players don't like. MrZ wants every player to find it comfortable to play, so he just made most important parameters manually adjustable. To him, softwares are just like hardares, with no hard standards of good or bad; it's good as long as you are comfortable with it.
+Tetris has mostly set rules, so when one wants to make a better game, what they work on is in the details and fine tuning. Those games that have an official Tetris license almost employed the same set of standards, and the more popular ones mostly have delays, which Chinese players don't like. MrZ wants every player to find it comfortable to play, so he just made most important parameters manually adjustable. To him, softwares are just like hardwares, with no hard standards of good or bad; it's good as long as you are comfortable with it.
 
 ![](https://i0.hdslb.com/bfs/article/70a288890682ebcc620a57468eed4018106998a0.jpg@942w_437h_progressive.webp) <br />*(Some adjustable parameters in the game.)*
 
@@ -145,7 +145,7 @@ He also once used the nickname "cztoxicgamergirl". The "CZ" is of course not a g
 
 During the interview, Diao sent me this self introduction:
 
-> My name is Diao. I'm 17 years old. My house is in Luala Lumpur, Peninsular Malaysia, and I am not married. I do homework at home, and I go to bed every day by 3 AM at the latest. I don't smoke, but I occasionally drink cola. I'm in bed at 5:30 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm Milo (chocolate milk) and doing about one hour of chatting before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at my last check-up.
+> My name is Diao. I'm 17 years old. My house is in Kuala Lumpur, Peninsular Malaysia, and I am not married. I do homework at home, and I go to bed every day by 3 AM at the latest. I don't smoke, but I occasionally drink cola. I'm in bed at 5:30 PM, and make sure I get eight hours of sleep, no matter what. After having a glass of warm Milo (chocolate milk) and doing about one hour of chatting before going to bed, I usually have no problems sleeping until morning. Just like a baby, I wake up without any fatigue or stress in the morning. I was told there were no issues at my last check-up.
 > <br />--Diao, Tetris player
 
 The language seem a bit weird, as if coming from someone who is not fluent in Chinese. It was only later that I realize it's from "Jojo's Bizzare Adventure", more specifically, the self introduction of Yoshikage Kira, the "master of broken hands" in the show, a villain who is evil yet charming. I was suddenly reminded of the Joker in DC Comics. Back when I was in high school, I used to be a big fan of Joker. I thought he's indulgent, a bit crazy, but yet thoughtful. He's cool.
@@ -169,7 +169,7 @@ Last year, Jilin Television invited him to another show. Also a variety show, al
 
 Modian later got a job at a cyber cafe as a counter clerk. Literally a clerk, the kind that collects fees and swipes ID cards. The reason for this job choice is simple, "the job as a clerk is not too busy and I get time to play games". Two months later, he left this job, and got to participate in recording sessions of another show. After the show, he joined a power plant as a maintenance crew that fixes whoever's broken computer at the site. The job is "a bit more busy", but it's a state-owned company, so the job is more stable, so still not bad.
 
-After the show gets more popular, some media started covering him. Some reporters saw that the "master of games" started doing "ordinary jobs", and wrote a story of "how a genius falls", and wrote down the job position as "security guard in the title. Modian was angry after seeing it, sating the media was writing bullshit and have no bottom line.
+After the show gets more popular, some media started covering him. Some reporters saw that the "master of games" started doing "ordinary jobs", and wrote a story of "how a genius falls", and wrote down the job position as "security guard" in the title. Modian was angry after seeing it, saying that the media was "writing bullshit and have no bottom line".
 
 One more year later, he left his job and went to Shenzhen. This time he had no plans, and "had no thoughts". In his words, it's more like a whim - being bored in a small town, he wanted to try exploring in a big city. He didn't find a suitable job yet. He rented a small room with his savings. He sleeps plenty, and stream him playing games when he's awake. He mainly plays Tetris and League of Legends. He doesn't have many followers and can't earn much money, but at least it's free and happy for him.
 
