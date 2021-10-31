@@ -22,13 +22,13 @@ local function _getTuneHeight(tune)
     --   - has octave at the last char as number...
     --   - has note letter (case insensitive) at the 1st char...
     --   - optionally, "s"/"#" for sharp, "f"/"b" for flat, at 2nd char
-    -- returns... midi pitch minus 24. curious
+    -- returns... midi pitch minus 23. curious
     local octave=tonumber(tune:sub(-1,-1))
     if octave then
         local tuneHeight=noteName[tune:sub(1,1)]
         if tuneHeight then
             tuneHeight=tuneHeight+(octave-1)*12
-            -- C4 will return 3*12=36, which is 24 lower than midi?
+            -- C4 will return 3*12=37, which is 23 lower than midi?
             local s=tune:sub(2,2)
             if s=='s'or s=='#'then
                 tuneHeight=tuneHeight+1
@@ -119,3 +119,65 @@ function SFX.playSample(pack,...)--vol-2, sampSet1, vol-3, sampSet2, vol-1
         end
     end
 end
+function SFX.play(name,vol,pos)
+    if volume==0 or vol==0 then return end
+    local S=Sources[name]--Source list
+    if not S then return end
+    local n=1
+    while S[n]:isPlaying()do
+        n=n+1
+        if not S[n]then
+            S[n]=S[1]:clone()
+            S[n]:seek(0)
+            break
+        end
+    end
+    S=S[n]--AU_SRC
+    if S:getChannelCount()==1 then
+        if pos then
+            pos=pos*stereo
+            S:setPosition(pos,1-pos^2,0)
+        else
+            S:setPosition(0,0,0)
+        end
+    end
+    S:setVolume(((vol or 1)*volume)^1.626)
+    S:play()
+end
+function SFX.fplay(name,vol,pos)
+    local S=Sources[name]--Source list
+    if not S then return end
+    local n=1
+    while S[n]:isPlaying()do
+        n=n+1
+        if not S[n]then
+            S[n]=S[1]:clone()
+            S[n]:seek(0)
+            break
+        end
+    end
+    S=S[n]--AU_SRC
+    if S:getChannelCount()==1 then
+        if pos then
+            pos=pos*stereo
+            S:setPosition(pos,1-pos^2,0)
+        else
+            S:setPosition(0,0,0)
+        end
+    end
+    S:setVolume(vol^1.626)
+    S:play()
+end
+function SFX.reset()
+    for _,L in next,Sources do
+        if type(L)=='table'then
+            for i=#L,1,-1 do
+                if not L[i]:isPlaying()then
+                    rem(L,i)
+                end
+            end
+        end
+    end
+end
+
+return SFX
