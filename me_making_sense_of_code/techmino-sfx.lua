@@ -28,7 +28,7 @@ local function _getTuneHeight(tune)
         local tuneHeight=noteName[tune:sub(1,1)]
         if tuneHeight then
             tuneHeight=tuneHeight+(octave-1)*12
-            -- C4 will return 3*12=37, which is 23 lower than midi?
+            -- C4 will return 1+3*12=37, which is 23 lower than midi?
             local s=tune:sub(2,2)
             if s=='s'or s=='#'then
                 tuneHeight=tuneHeight+1
@@ -49,6 +49,8 @@ end
 --
 -- By the way, if #/b is implemented to ignore position, then note name will have to consider case,
 -- because "f"/"b" for flat are both lowercase note names.
+
+-- wait, also it doesn't support octaves lower than 0?
 
 local SFX={}
 
