@@ -1,6 +1,14 @@
 # `background.lua`
 `background.lua` returns the mudule `BG`.
 
+## Local variables
+
+### function `gc_clear=love.graphics.clear`
+
+### dictionary `BGs`
+
+### array `BGlist`
+
 ## Attributes
 
 ### string `BG.cur`
