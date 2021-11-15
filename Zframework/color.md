@@ -49,6 +49,6 @@ returns a ***4 numbers (not a 4-number array)*** (RGBA) based on the phase.
 Phase is a number passed into a `sin` function, thus 2\*pi is one cycle.
 
 ### array `COLOR.rainbow_gray(double phase, double a)`
-returns a 4-number array (RGBA) based on the phase.
+returns a ***4 numbers (not a 4-number array)*** (RGBA) based on the phase.
 
 Phase is a number passed into a `sin` function, thus 2\*pi is one cycle.
