@@ -12,7 +12,7 @@
 ### async bool `task_fadeOut([type?] src)`
 fade out audio over 0.67 seconds, then pause the audio, then return `true`.
 
-### async book `task_fadeIn([type?] src)`
+### async bool `task_fadeIn([type?] src)`
 fade in audio over 0.67 seconds, then return `true`.
 
 ### bool `check_curFadeOut([type?] task, [type?] code, [type?] src)`
