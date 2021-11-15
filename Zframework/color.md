@@ -34,17 +34,17 @@ returns a random 4-number array (RGBA) from a list of bright colors.
 returns a random 4-number array (RGBA) from a list of dark colors.
 
 ### array `COLOR.rainbow(double phase, double a)`
-returns a 4-number array (RGBA) based on the phase.
+returns ***4 numbers (not a 4-number array)*** (RGBA) based on the phase.
 
 Phase is a number passed into a `sin` function, thus 2\*pi is one cycle.
 
 ### array `COLOR.rainbow_light(double phase, double a)`
-returns a 4-number array (RGBA) based on the phase.
+returns ***4 numbers (not a 4-number array)*** (RGBA) based on the phase.
 
 Phase is a number passed into a `sin` function, thus 2\*pi is one cycle.
 
 ### array `COLOR.rainbow_dark(double phase, double a)`
-returns a 4-number array (RGBA) based on the phase.
+returns a ***4 numbers (not a 4-number array)*** (RGBA) based on the phase.
 
 Phase is a number passed into a `sin` function, thus 2\*pi is one cycle.
 
