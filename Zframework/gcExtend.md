@@ -1,5 +1,5 @@
 # `gcExtend.lua`
-`gcExtend.lua` returns the module `GC`, which provides additional simple graphics-drawing functions.
+`gcExtend.lua` returns the module `GC`, which provides additional graphics-drawing functions.
 
 ## Local variables
 
