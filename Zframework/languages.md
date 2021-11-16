@@ -1,5 +1,5 @@
-# `lang.lua`
-`lang.lua` returns the module `LANG`.
+# `languages.lua`
+`languages.lua` returns the module `LANG`.
 
 ## Methods
 
