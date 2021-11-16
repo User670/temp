@@ -35,6 +35,6 @@ MrZ: "Draw an obj with both middle X & Y"
 
 ### void `GC.shadedPrint(string str, [type?] x, [type?] y, string mode, [type?] d, [type?] clr1, [type?] clr2)`
 
-### void `GC.regularPolygon([type?] mode, [type?] x, [type?] y, [type?] R, [type?] segments, [type?] r, [type?] phase)
+### void `GC.regularPolygon([type?] mode, [type?] x, [type?] y, [type?] R, [type?] segments, [type?] r, [type?] phase)`
 
 ### [returnType?] `GC.DO([type?] L)`
