@@ -11,9 +11,11 @@
 
 ## Attributes
 
-### string `BG.cur`
-
 ### string `BG.default`
+
+### bool `BG.locked`
+
+### string `BG.cur`
 
 ### bool `BG.init`
 
@@ -39,9 +41,18 @@ Proxied by `BG.send`. Should use an expression that evaluates to `false` in an `
 
 ## Methods
 
+### void `BG.lock()`
+Changes `BG.locked` to `true`.
+
+### void `BG.unlock()`
+Changes `BG.locked` to `false`.
+
 ### void `BG.add([type?] name, [type?] bg)`
 
 ### (returnType?) `BG.getList()`
+
+### void `BG.remList([type?] name)`
+Removes `name` from `BGlist`.
 
 ### void `BG.send(...)`
 Proxy to `BG.event`, sending all arguments to that function if it exists.
