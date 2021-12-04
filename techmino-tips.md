@@ -1,1 +1,50 @@
-
+- "Techmino.app" will harm your computer. You should move it to the bin.
+- (a+b)³=a³+3a²b+3ab²+b³
+- (RUR'U')R'FR2U'R'U'(RUR'F')
+- *Evolution of Button Visual Styles*
+- *Evolution of Loading Screens*
+- *Evolution of Theme Music*
+  - (the above 3: in a book title format)
+- ↑↑↓↓←→←→BA
+- ∫u dv=uv-∫v du
+- `$include<studio.h>`
+- 0next 0hold.
+- 11 Combo PC!
+- 1next 0hold
+- 1next 1hold!
+- 1next 6hold!
+- 3.1415926535897932384(\d{3})
+- 3next 1hold?
+- Sprint 40L World Record: 14.915s by Reset_
+- 6236326236327175
+- 626 in 1
+- 6next 1hold!
+- 6next 6hold?!
+- Timer bot: new day, new beginning
+- The game is still in testing, expect all sorts of problems
+- The game uses a trimmed font file, some weird characters might not display properly.
+- Don't tap or slide with too much force.
+- Don't 卖弱 Don't 卖弱 Don't 卖弱 *(untranslatable terminology someone help)*
+- I wonder how many people actually care who made the game when playing a game
+- Some phones lag a lot when you enable vibration
+- Color clear coming soon!
+- 草 (Japanese)
+- Touhou and Tetris are one family (questionable claim
+- Achievement system is in the works!
+- It ate your keypress? Really? I suggest watching replay to see if you actually hit the key and for how long
+- Playing Osu! with a touch screen is great too!
+- When can the placeholder tips rise up
+- striking iron.png *(I don't get the reference)*
+- striking iron
+- I guess someone will read the tips
+- What other people mean by Tetris might be different from what you know as Tetris. When appropriate, consider reminding the other person.
+- B2B 10 Combo Tetris Perfect Clear!
+- Use headphones for best experience
+- Playable one-handed!
+- Click to add title
+- If you are really interested in programming, I recommend Lua, with simple installation, simple syntax and fast execution speed; get away from boring programming classes in your school (huh?
+  - *User670: In terms of installation, it's kinda confusing. Lua doesn't officially come with binaries, and they have to be found elsewhere; and it's not a installer, it's just an executable and a few dlls, so make sure to set up the PATH variable if you want to access it from everywhere. In terms of speed, I don't trust interpreted languages?*
+- I've been playing minigames for so many years, and I hate those fake loading screens that purposefully make you wait
+- Multi-hold modern Tetris is back!
+- Tetris has a lot of potential as an e-sports game
+- 
