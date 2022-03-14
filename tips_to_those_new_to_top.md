@@ -19,7 +19,7 @@ Many new players might have seen the many T-Spin tutorials reposted by [Kitsune]
 ## 2. Make sure to dig (defense), attack after you ensure safety, don't be too aggressive
 I guess I'm not doing good on this part myself... In many cases when playing battle, I'm stilling greedy for attacks while having a very tall stack, and then I'm dead. As for how you should dig, there are some tutorials in the group chat, ~~and I'll consider playing a few games with pure digging and record it~~
 
-Anyways, don't learn from me when it comes to defence. You can watch footages of bots, or some footage in the game Cultris 2, because in Cultris 2 it demands **much more** skills in digging than on TOP. I also recommend digging straight into Cultris 2; practice of 1-next no-bag-7 digging can be of great help for you when you go back to TOP.
+Anyways, don't learn from me when it comes to defense. You can watch footages of bots, or some footage in the game Cultris 2, because in Cultris 2 it demands **much more** skills in digging than on TOP. I also recommend digging straight into Cultris 2; practice of 1-next no-bag-7 digging can be of great help for you when you go back to TOP.
 
 Bots are very strict when it comes to T-Spin Triples. If there is a T piece close in the next queue, a bot would only consider building a TST setup when the stack is below half-screen (10 lines) with less than 2 lines in the garbage buffer, else it might break the setup down. This is something you can learn. Many good players hardly make TST in close battles, and after all TSTs are more like icing on an (already good) cake.
 
