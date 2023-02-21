@@ -1,5 +1,6 @@
--- https://github.com/26F-Studio/Techmino_Galaxy/blob/main/assets/ai/retard.lua
+-- https://github.com/26F-Studio/Techmino_Galaxy/blob/main/assets/ai/paperArtist.lua
 -- "Retard" AI, as of 2023-02-20
+-- It has since been renamed to PaperArtist, due to the offensive nature of the word "retard".
 -- It's an actual retard based on its in-game performance, tbh
 
 local retard={}
