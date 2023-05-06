@@ -1,0 +1,66 @@
+SECTION I.Introduction
+The beginning of virtualization technology dates back in the 1960's (IBM's VM/370 and Goldberg). In that time it was developing and widely spread technology because of very high hardware prices. In the 1980s and 1990s, with development of modern multitasking operating systems and with drop of hardware cost, value of Virtual Machine Monitors decreased. It seemed that virtualization become a history. But, in the 2000s, virtualization achieved a new expansion, together with the development of low-cost and high performance desktop computers. Intel, AMD, Sun Microsystems, and IBM are developing virtualization products that target markets with revenues in the billions and growing more. Academy and research institutions applied “new” technology in the area of research and development [1].
+
+One of the possible ways of using virtualization in academic environment is in educational process. The main approach in implementing virtualization in courses at universities, for engineering education is in the area of computer networks. There are a large number of projects in this area (VNUML, Netkit, Einar)[2], [3]. Much less efforts are made in adopting the virtualization in other courses as well. This technology may be useful in courses of distributed systems and operating systems [4], [5]. This paper describes a possible way of using this technology in operating systems course, implemented at technical faculty “Mihajlo Pupin” - Zrenjanin (University of Novi Sad, Serbia).
+
+SECTION II.Virtualization
+The base of virtualization technology is virtual-machine monitor (VMM). “VMM is a layer of software that emulates the hardware of a complete computer system. The abstraction created by the VMM is called a virtual machine [6]”. There are three types of VMMs according to their structure or host platform on which they are built [6], [7].
+
+Type I VMMs or stand-alone “Fig. 1” are implemented directly on the physical hardware. Type II VMMs or hosted are built completely on top of a host operating system. The OS running on the physical machine is called Host OS, and OS running on virtual machine is Guest OS.
+
+The third group of VMMs are hybrids between Type I and II. They operate mostly on the physical hardware “Fig. 2”, but they use host OS to perform I/O operations. In other words hybrid systems share the hardware with an existing operating system. IBM's VM/370 and VMware's ESX Server are Type I VMMs [8], User-Mode Linux [9] is Type II VMMs and VMware Workstation, Microsoft Virtual PC [10], Microsoft Virtual Server 2005 [11] are hybrid systems. All virtualization systems are commercially available, except IBM VM/370.
+
+VMM runs in supervisor mode and controls access to the resources shared by virtual machines. The VMM schedules the virtual machines, in a manner similar to how an operating system schedules processes, and allocates processor cycles to them. In the case of virtual machine running on top of the VMM, any non-privileged instruction executed by a virtual machine is executed directly by the hardware. In the other case, if the virtual machine executes a privileged instruction an interrupt is generated (because the virtual machine runs in user mode). The VMM then has to emulate the execution of the privileged instruction [12].
+Sv=fpxNe+(1+fp)=fp(Ne−1)+1(1)
+View SourceRight-click on figure for MathML and additional features.
+
+It is possible to calculate eventual slowdown (Sv) of a virtual machine by equation (1). Slowdown is a function dependable of the number of privileged instructions executed by the guest OS and of the number of instructions needed to emulate a privileged instruction. fp is the fraction of privileged instructions executed by a virtual machine and Ne is the average number of instructions required by the VMM to emulate those instructions [12].
+
+SECTION III.Virtual Laboratory for Operating System Course
+As a part of operating system course students must have an opportunity to learn bad examples of system programming. Learning the common mistakes in programming with running badly written program code will be more effective if they have the opportunity to run program and monitor computer performance. If they run such programs on computer in the laboratory it may cause system crush and obstruct teaching process. The idea is to use virtual machine technology as a testing ground. In that way students will have development environment installed on physical PC, and testing environment on the virtual one.
+
+The virtual laboratory aimed to be used at operating systems course can be realized in several ways. There are several virtualization applications suitable for that use (VMWare, Virtual PC, Xen, User-mode Linux, etc.) and also many available platforms (Windows and variety of Linux platforms).
+
+The basic platform for creating our Virtual OS laboratory is Windows XP. The reason is that completely formed virtual laboratory used in various courses already exists at the faculty. The operating system that is installed is Windows XP. Development tool for this course is Microsoft Visual C++. Virtualization software used for the laboratory is Microsoft Virtual PC “Fig. 3”. As a Guest OS system on virtual machine, Windows XP is also installed with virtual machine additions. Virtual machine is placed in two files -. vmc and. vhd. File. vmc is configuration file and. vhd is virtual disk file. Size of. vhd file is limited to 1GB and virtual memory is limited to 200 MB. Folder sharing between virtual and physical machine is enabled.
+
+Created laboratory was tested, by comparing the physical computer behavior while running badly written code. After performed measurements the computer behavior is tested during the badly written code execution on a virtual machine.
+
+The test is performed using Microsoft ® Management Console © - System Monitor and Performance Logs and Alerts.
+
+SECTION IV.Virtual OS Laboratory Test
+Experimental work consists of laboratory exercise from Operating System course. The purpose of this exercise is to provide a view of bad usage of system memory during program execution.
+
+Processor, paging file and memory usage are measured, data are logged and visualized. Test program starts threads that concurrently allocate memory. All threads that allocate memory are implemented with the same thread function EatMemoryThread. All threads allocate memory, do some processing, but they do not free allocated memory (illustration of common programming mistake - allocate memory without freeing it). Before starting working threads that allocate memory in bad manner, the program starts MemoryStatusThread thread that monitors memory usage. Our assumption is that memory usage by monitoring thread is irrelevant for obtained results. This monitoring thread gathers data about physical memory, paging file and memory used by this process on every 10ms. Gathered data are logged to file and visualized on application GUI “Fig. 4”. Data logged in application are very similar to those monitored with System Monitor. Logged data are exported in ‘csv’ format (comma separated values) and visualized in Microsoft Excel.
+
+The experiment is performed on computers in faculty laboratories with the following performances:
+
+Pentium III 650MHz, 512MB Physical Memory
+
+Pentium IV 1.8GHz, 512 MB Physical Memory.
+
+All programs and services critical for memory usage are stopped on computers used for experiment.
+
+In the first scenario, where tested software was running on the physical PC page file usage was very high “Fig. 5”. It started to grow higher and higher shortly after the third thread was started. Soon (after 3 minutes) paging file size achieved maximum (100%). Physical computer performance was greatly reduced and it was very hard to control the computer. In similar cases, but rarely, the result was system or tested program crush down.
+
+Processor usage “Fig. 6” was in the normal range with maximum of 74 % and average of 11.12%. It rarely exceeded 40%.
+
+In the other scenario it was completely different. When the tested program is started on virtual machine as a testing platform, page file usage “Fig. 7” was considerably lower. The average with 9.89% with variation from 9.25 to 10.22, means that it was almost constant.
+
+In the other hand, processor usage was increased “Fig. 8” comparing to the previous scenario. But it was not high enough to reduce computer performance considerably. The average processor usage was 17.52% with only several peaks above 40%. The tested program was able only to cause the damage by slowing virtual machine. In addition virtual machine did not cause the physical computer performance slow down and crush.
+
+The diagram obtained after visualization of data measured by test program “Fig. 9” shows the memory usage when three working threads are started on physical PC. Parameters of memory usage that are monitored are: total physical memory, free physical memory, total paging file, free paging file and memory used by test program.
+
+Test confirming that this exercise shows bad memory usage is shown in “Fig. 10”. Parameters of memory usage that are monitored are: total physical memory, free physical memory, total paging file, free paging file and memory used by test program. In this sample three working threads are started, and after 90 seconds are shut down. After shutting down threads, memory used by process falls to values near zero, because process uses memory only for thread MemoryStatusThread that tracks memory usage. But physical memory and paging file are not recovered. This slows down physical PC, but when this test is executed on virtual PC there were no significant problems in machine functioning. This test justifies usage of virtual PC in teaching operating system concepts.
+
+This test is performed on PCs with Pentium III, 650MHz microprocessor, 512MB of physical memory and 1.5GB paging file.
+
+SECTION V.Conclusion and Future Work
+As it was mentioned before large efforts and a great number of research projects were made in adopting the virtualization technology in teaching networking concepts [13] and in creation of virtual network laboratories as a tool for computer network simulation. Besides few projects, the way of adopting the virtualization technology in operating system course is only mentioned as a possibility without real attempts to accomplish the goal. This is only the first step in research of using the virtualization in teaching operating systems, system programming and distributed systems.
+
+Experimental results obtained with Microsoft System Monitor, and measurement realized with test program show that using visual machines in teaching operating system concepts is justified, especially when teaching some critical lectures.
+
+The problem that was noticed during experiment is usage of the same process for teaching operating system lessons and for measuring memory status. The problem is accuracy in measuring memory used by test program, because the thread that measures memory status also uses memory. This problem will be solved in near future through development of standalone platform independent monitoring software.
+
+The future work can be pointed to achieve a design of new exercises in operating system course together with testing machine performance, students' response considering the exercise quality and measuring the level of adopted knowledge. Other basic concepts of operating systems [14], such as file system, process management and interprocess communication and IO will be captured in future work. Also, some concepts of distributed systems, such as remote procedure call and group communication will be tested in virtual laboratory too.
+
+Another direction in future work is development of tools that will automatically monitor system usage, visualize gathered data and provide statistical reports. The aim is to develop platform independent tool (written in Java programming language) that will be used to monitor system usage on various platforms and virtual machines. This tool will be used to monitor usage of all system resources (CPU, memory, file system resources) on PCs and network.
