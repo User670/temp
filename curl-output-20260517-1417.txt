@@ -1,0 +1,135 @@
+User670@LAPTOP-2ERKC534 MINGW64 ~
+$ curl [private] \
+-H "Content-Type: application/json" \
+-H "Authorization: Bearer [private]" \
+-d '{
+  "model": "[private]",
+  "input": [
+    {
+      "type": "message",
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "喵呜喵呜"
+        }
+      ]
+    }
+  ],
+  "stream": true
+}'
+event: response.created
+data: {"type":"response.created","response":{"id":"resp_6eba8e7e74c8422d9832015b825c02d6","object":"response","created_at":1778997879,"status":"in_progress","model":"胡桃酱","conversation_id":"617017bf-5178-4b21-826a-18b41dc2f8be","output":[],"output_text":"","usage":null},"sequence_number":0}
+
+event: response.in_progress
+data: {"type":"response.in_progress","response":{"id":"resp_6eba8e7e74c8422d9832015b825c02d6","object":"response","created_at":1778997879,"status":"in_progress","model":"胡桃酱","conversation_id":"617017bf-5178-4b21-826a-18b41dc2f8be","output":[],"output_text":"","usage":null},"sequence_number":1}
+
+event: response.output_item.added
+data: {"type":"response.output_item.added","item":{"id":"msg_3a5d8ed6c4694540bcd48c80","type":"message","status":"in_progress","content":[],"role":"assistant"},"output_index":0,"sequence_number":2}
+
+event: response.content_part.added
+data: {"type":"response.content_part.added","content_index":0,"item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"part":{"type":"output_text","annotations":[],"text":""},"sequence_number":3}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":4}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"喵","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":5}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":6}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"（来了）","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":7}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"\n","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":8}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":9}
+
+event: response.output_text.delta
+:
+
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":10}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"如果收到的话可以帮忙截图发评论区嘛qvq","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":11}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":12}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"\n目前评论区好多人还请求不成功））","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":13}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":14}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":15}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"诶 你用的curl","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":16}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":17}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"\n最好换成rikkahub或者其他什么agent来试试）","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":18}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":19}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":20}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"\n curl的话有点难截图发评论区）","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":21}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":22}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":23}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":24}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":25}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":26}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":27}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":28}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"诶你有收到我刚才的消息嘛我这不知道是不是有bug,消失了（）","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":29}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":30}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"qvq","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":31}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"​","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":32}
+
+event: response.output_text.delta
+data: {"type":"response.output_text.delta","content_index":0,"delta":"诶你有收到我刚才的消息嘛我这不知道是不是有bug,消失了（）qvq","item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"sequence_number":33}
+
+event: response.output_text.done
+data: {"type":"response.output_text.done","content_index":0,"item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"text":"诶你有收到我刚才的消息嘛我这不知道是不是有bug,消失了（）qvq","sequence_number":34}
+
+event: response.content_part.done
+data: {"type":"response.content_part.done","content_index":0,"item_id":"msg_3a5d8ed6c4694540bcd48c80","output_index":0,"part":{"type":"output_text","annotations":[],"text":"诶你有收到我刚才的消息嘛我这不知道是不是有bug,消失了（）qvq"},"sequence_number":35}
+
+event: response.output_item.done
+data: {"type":"response.output_item.done","output_index":0,"item":{"id":"msg_3a5d8ed6c4694540bcd48c80","type":"message","status":"completed","role":"assistant","content":[{"type":"output_text","annotations":[],"text":"诶你有收到我刚才的消息嘛我这不知道是不是有bug,消失了（）qvq"}]},"sequence_number":36}
+
+event: response.completed
+data: {"type":"response.completed","response":{"id":"resp_6eba8e7e74c8422d9832015b825c02d6","object":"response","created_at":1778998074,"status":"completed","model":"胡桃酱","conversation_id":"617017bf-5178-4b21-826a-18b41dc2f8be","output":[],"output_text":"诶你有收到我刚才的消息嘛我这不知道是不是有bug,消失了（）qvq","usage":{"input_tokens":3,"output_tokens":13,"total_tokens":16}},"sequence_number":37}
